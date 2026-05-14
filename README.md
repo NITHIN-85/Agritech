@@ -17,57 +17,58 @@ A direct marketplace where farmers can connect with buyers, reduce middlemen dep
 🚜 Equipment & Logistics Support:
 Simplified machinery rentals, transportation coordination, and logistics management for affordable agricultural operations.
 
-🛠️ Technology Stack 
+# 🛠️ Technology Stack
 
-🎨 Frontend   
--React.js 
--Lucide Icons 
--Recharts (for data visualization) 
--Vanilla CSS 
+## 🎨 Frontend
+- React.js
+- Lucide Icons
+- Recharts (for data visualization)
+- Vanilla CSS
 
-⚙️Backend 
--Java 17 
--Spring Boot 3.x 
--Spring Security (JWT Authentication) 
--Spring Data JPA 
+## ⚙️ Backend
+- Java 17
+- Spring Boot 3.x
+- Spring Security (JWT Authentication)
+- Spring Data JPA
 
-🗄️ Database 
--H2 In-Memory Database (for rapid development and testing)
+## 🗄️ Database
+- H2 In-Memory Database
+  - Used for rapid development and testing
+# 🏗️ System Modules
 
-🏗️ System Modules
+## 👨‍🌾 Farmer Module
+- Crop management
+- Production tracking
+- Farm activity monitoring
+- Yield insights
 
-👨‍🌾 Farmer Module
--Crop management
--Production tracking
--Farm activity monitoring
--Yield insights
+## 🛒 Buyer Module
+- Browse agricultural products
+- Place and manage orders
+- Delivery tracking
 
-🛒 Buyer Module
--Browse agricultural products
--Place and manage orders
--Delivery tracking
+## 🚚 Logistics Module
+- Shipment tracking
+- Vehicle coordination
+- Delivery status updates
 
-🚚 Logistics Module
--Shipment tracking
--Vehicle coordination
--Delivery status updates
 
-⚙️ Installation & Setup
-1️⃣ Clone Repository
-git clone https://github.com/your-username/FarmFlow.git
-cd FarmFlow
+## ⚙️ Installation & Setup
+## 1️⃣ Clone Repository
+-git clone https://github.com/your-username/FarmFlow.git
+-cd FarmFlow
 
-2️⃣ Backend Setup
-cd backend
-./gradlew bootRun
+## 2️⃣ Backend Setup
+-cd backend
+-./gradlew bootRun
 
-3️⃣ Frontend Setup
-cd frontend
-npm install
-npm run dev
+## 3️⃣ Frontend Setup
+-cd frontend
+-npm install
+-npm run dev
 
 📈 Future Enhancements
--🤖 AI-based Crop Prediction
+🤖 AI-based Crop Prediction
 🌦️ Real-time Weather Intelligence
 🚁 Drone Monitoring
 🔗 Blockchain Traceability
