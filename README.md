@@ -20,37 +20,37 @@ Simplified machinery rentals, transportation coordination, and logistics managem
 🛠️ Technology Stack 
 
 🎨 Frontend   
-React.js 
-Lucide Icons 
-Recharts (for data visualization) 
-Vanilla CSS 
+-React.js 
+-Lucide Icons 
+-Recharts (for data visualization) 
+-Vanilla CSS 
 
 ⚙️Backend 
-Java 17 
-Spring Boot 3.x 
-Spring Security (JWT Authentication) 
-Spring Data JPA 
+-Java 17 
+-Spring Boot 3.x 
+-Spring Security (JWT Authentication) 
+-Spring Data JPA 
 
 🗄️ Database 
-H2 In-Memory Database (for rapid development and testing)
+-H2 In-Memory Database (for rapid development and testing)
 
 🏗️ System Modules
 
 👨‍🌾 Farmer Module
-Crop management
-Production tracking
-Farm activity monitoring
-Yield insights
+-Crop management
+-Production tracking
+-Farm activity monitoring
+-Yield insights
 
 🛒 Buyer Module
-Browse agricultural products
-Place and manage orders
-Delivery tracking
+-Browse agricultural products
+-Place and manage orders
+-Delivery tracking
 
 🚚 Logistics Module
-Shipment tracking
-Vehicle coordination
-Delivery status updates
+-Shipment tracking
+-Vehicle coordination
+-Delivery status updates
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
@@ -67,7 +67,7 @@ npm install
 npm run dev
 
 📈 Future Enhancements
-🤖 AI-based Crop Prediction
+-🤖 AI-based Crop Prediction
 🌦️ Real-time Weather Intelligence
 🚁 Drone Monitoring
 🔗 Blockchain Traceability
