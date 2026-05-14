@@ -70,6 +70,7 @@ cd frontend
 npm install
 npm run dev
 ```bash
+
 📈 Future Enhancements
 🤖 AI-based Crop Prediction
 🌦️ Real-time Weather Intelligence
