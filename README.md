@@ -55,17 +55,20 @@ Simplified machinery rentals, transportation coordination, and logistics managem
 
 ## ⚙️ Installation & Setup
 ## 1️⃣ Clone Repository
--git clone https://github.com/your-username/FarmFlow.git
--cd FarmFlow
+```bash
+git clone https://github.com/your-username/FarmFlow.git
+cd FarmFlow
 
 ## 2️⃣ Backend Setup
--cd backend
--./gradlew bootRun
+'''bash
+cd backend
+./gradlew bootRun
 
 ## 3️⃣ Frontend Setup
--cd frontend
--npm install
--npm run dev
+'''bash
+cd frontend
+npm install
+npm run dev
 
 📈 Future Enhancements
 🤖 AI-based Crop Prediction
