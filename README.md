@@ -53,28 +53,38 @@ Simplified machinery rentals, transportation coordination, and logistics managem
 - Delivery status updates
 
 
-## ⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 
-### 1️⃣ Clone Repository
+## 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/your-username/FarmFlow.git
 cd FarmFlow
+```
 
-2️⃣ Backend Setup
+## 2️⃣ Backend Setup
+
+```bash
 cd backend
 ./gradlew bootRun
+```
 
-3️⃣ Frontend Setup
+## 3️⃣ Frontend Setup
+
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
- 📈 Future Enhancements
-🤖 AI-based Crop Prediction
-🌦️ Real-time Weather Intelligence
-🚁 Drone Monitoring
-🔗 Blockchain Traceability
-📱 Mobile Application
-🌍 Multi-language Support
-📡 IoT Sensor Integration
+---
+
+# 📈 Future Enhancements
+
+- 🤖 AI-based Crop Prediction
+- 🌦️ Real-time Weather Intelligence
+- 🚁 Drone Monitoring
+- 🔗 Blockchain Traceability
+- 📱 Mobile Application
+- 🌍 Multi-language Support
+- 📡 IoT Sensor Integration
