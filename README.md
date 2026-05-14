@@ -60,16 +60,16 @@ git clone https://github.com/your-username/FarmFlow.git
 cd FarmFlow
 
 ## 2️⃣ Backend Setup
-'''bash
+```bash
 cd backend
 ./gradlew bootRun
 
 ## 3️⃣ Frontend Setup
-'''bash
+```bash
 cd frontend
 npm install
 npm run dev
-
+```bash
 📈 Future Enhancements
 🤖 AI-based Crop Prediction
 🌦️ Real-time Weather Intelligence
