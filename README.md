@@ -71,7 +71,7 @@ npm install
 npm run dev
 ```bash
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 🤖 AI-based Crop Prediction
 🌦️ Real-time Weather Intelligence
 🚁 Drone Monitoring
